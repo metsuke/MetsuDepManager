@@ -88,10 +88,11 @@ license_profile = "eu-compliant"
 MetsuDepManager requiere Python ≥3.11 y <3.15 (decisión adoptada en diciembre de 2025).
 
 Este rango garantiza:
-• Parches de seguridad activos en todas las versiones soportadas de al menos un año al momento de tomar la decisión
-• Compatibilidad total con Poetry 2.x, Pydantic v2, Safety v3 y CycloneDX  
-• Cumplimiento normativo DORA, NIS2 y RGPD  
-• Funcionamiento sin dependencias externas en entornos air-gapped (gracias a `tomllib`)
+
+- Parches de seguridad activos en todas las versiones soportadas de al menos un año al momento de tomar la decisión
+- Compatibilidad total con Poetry 2.x, Pydantic v2, Safety v3 y CycloneDX
+- Cumplimiento normativo DORA, NIS2 y RGPD  
+- Funcionamiento sin dependencias externas en entornos air-gapped (gracias a `tomllib`)
 
 Se excluyen versiones <3.10 (ya EOL), <3.11 (soporte de seguridad menor de un año) y ≥3.15 (aún en prerelease).  
 
