@@ -40,6 +40,12 @@ El proyecto está en fase de desarrollo activo (roadmap Q1 2025 - Q1 2026). Cuan
 pip install metsudepmanager
 ```
 
+Entra en la carpeta de la instalación y ejecuta:
+
+```bash
+python init_metsudepmanager.py
+```
+
 O mediante binarios standalone (PyInstaller/Nuitka) para entornos air-gapped.
 
 ## Uso rápido
@@ -91,6 +97,7 @@ Este proyecto está licenciado bajo la **GNU General Public License v3.0** - ver
 ## Más información
 
 - Visión general detallada del proyecto: [metsuke.com/publicbrain/metsudepmanager](https://www.metsuke.com/publicbrain/metsudepmanager---vision-general-del-proyecto-%F0%9F%9F%A1%E2%91%A2.html)
+- Sobre la versión de Python: [https://metsuke.com/publicbrain/decision-oficial-sobre-la-version-de-python-requerida-por-metsudepmanager-%F0%9F%9F%A1%E2%91%A2.html](https://metsuke.com/publicbrain/decision-oficial-sobre-la-version-de-python-requerida-por-metsudepmanager-%F0%9F%9F%A1%E2%91%A2.html)
 - Documentación completa (en desarrollo con MkDocs accesible).
 
 ¡Gracias por tu interés en un software más ético y accesible!
